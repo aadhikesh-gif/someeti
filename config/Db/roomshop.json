@@ -1,0 +1,12 @@
+{
+  "sggame": {
+    "items": {
+      "masterballbundle": {
+        "id": "masterballbundle",
+        "name": "Master Ball Bundle",
+        "price": "100",
+        "desc": "GET 5 MASTER BALLS. Pm tapu J0J0 before purchase"
+      }
+    }
+  }
+}

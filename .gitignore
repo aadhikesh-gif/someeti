@@ -1,18 +1,52 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
+/node_modules
+/eslint-cache
+/chat-plugins/private.js
+/chat-plugins/*-private.js
+npm-debug.log
+.eslintcache
 
-# Other files and folders
-.settings/
+# visual studio live share
+.vs
 
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
+# boilerplate #
+###############
 
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+.DS_Store
+
+# editor temp files
+*~
+.idea/
+
+tmp/**/*
+*.lock
+*.DS_Store
+*.swp
+*.out
+*.pyc
+*.pyo
+.installed.cfg
+
+downloads
+build
+dist
+
+# egg related
+develop-eggs
+*.egg-info
+*.egg
+*.EGG
+*.EGG-INFO
+src/*.egg-info
+eggs
+fake-eggs
+
+# django
+local_settings.py
+
+# SCM
+.hg
+.bzr
+.svn
+
+pip-log.txt
+
