@@ -1,0 +1,64 @@
+{
+  "4n5h64m3r": {
+    "data": {
+      "title": {},
+      "music": {}
+    },
+    "color": "#0000FF",
+    "nature": "Naughty",
+    "pokemon": "Yveltal",
+    "type": "electric"
+  },
+  "tapuj0j0": {
+    "data": {
+      "title": {},
+      "music": {}
+    },
+    "background": "https://i.ibb.co/NyTWBcn/images.jpg"
+  },
+  "frostienana": {
+    "data": {
+      "title": {
+        "title": "Mawile is the best",
+        "color": "#000000"
+      },
+      "music": {}
+    },
+    "background": "https://media.discordapp.net/attachments/783797115893448704/793150466451701850/Gifs.gif",
+    "color": "#ff0000",
+    "nature": "Jolly",
+    "type": "fire"
+  },
+  "twinkii": {
+    "data": {
+      "title": {},
+      "music": {}
+    },
+    "background": "https://images-ext-1.discordapp.net/external/UeJKRtEFUXacbto6_em5Cd-4BE3-LsJ21DVsOk_JGbA/https/i.pinimg.com/originals/5a/84/72/5a8472aeb04050c2b46082328d3fdb0d.gif",
+    "color": "#b6a4ce",
+    "nature": "Calm",
+    "pokemon": "Altaria",
+    "type": "ghost"
+  },
+  "shadezeraninja": {
+    "data": {
+      "title": {},
+      "music": {}
+    },
+    "background": "https://i.pinimg.com/originals/da/93/24/da932438d76afc756986396a904446dc.gif",
+    "color": "#ff0000",
+    "pokemon": "Greninja-Ash",
+    "nature": "Calm",
+    "type": "dragon"
+  },
+  "nicko777": {
+    "data": {
+      "title": {},
+      "music": {}
+    },
+    "color": "#ff0000",
+    "pokemon": "Zeraora",
+    "nature": "Lonely",
+    "type": "dragon"
+  }
+}
